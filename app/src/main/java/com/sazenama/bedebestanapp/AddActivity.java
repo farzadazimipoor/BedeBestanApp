@@ -76,7 +76,7 @@ public class AddActivity extends AppCompatActivity {
             String errmessage = "Please Fill all needed fileds!";
             Toast.makeText(getApplicationContext(), errmessage, Toast.LENGTH_LONG).show();
         }
-        
+
     }
 
     private void clear() {
